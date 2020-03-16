@@ -1,8 +1,0 @@
-io\dubois\command\SpawnEntityCommand.class
-io\dubois\event\ProjectileListener.class
-io\dubois\command\firstgroup\StrikeCommand.class
-io\dubois\command\FireworkCommand.class
-io\dubois\event\PlayerListener.class
-io\dubois\command\firstgroup\HideCommand.class
-io\dubois\plugin\CurrencyPlugin.class
-io\dubois\command\firstgroup\FirstCommandGroup.class
